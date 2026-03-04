@@ -1,14 +1,11 @@
 
-<div align="center">
-  <img src="python girl.gif" alt="Python Girl">
-</div>
-
 <h1 align="center" style="color:#d63384;">
   ✨ Kaylla Oliveira ✨
 </h1>
-
-
 ---
+<div align="center">
+  <img src="python girl.gif" alt="Python Girl">
+</div>
 
 ## 🧠 Under Construction...
 
